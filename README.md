@@ -1,4 +1,4 @@
-# GANomaly-tf2
+# Skip-GANomaly-tf2
 
 
 ## Train , Validate, Infer
